@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Item 1",
+        "vizstate": "{\"chartType\":\"pie\",\"query\":{\"measures\":[\"Users.count\"],\"dimensions\":[\"Users.city\"],\"timeDimensions\":[],\"order\":{\"Users.count\":\"desc\"}}}",
+        "layout": "{\"x\":13,\"y\":0,\"w\":10,\"h\":14}"
+    },
+    {
+        "id": 2,
+        "name": "Item 2",
+        "vizstate": "{\"chartType\":\"pie\",\"query\":{\"measures\":[\"Users.count\"],\"dimensions\":[\"Users.city\"],\"timeDimensions\":[],\"order\":{\"Users.count\":\"desc\"}}}",
+        "layout": "{\"x\":13,\"y\":0,\"w\":10,\"h\":14}"
+    },
+    {
+        "id": 3,
+        "name": "Item 3",
+        "vizstate": "{\"chartType\":\"pie\",\"query\":{\"measures\":[\"Users.count\"],\"dimensions\":[\"Users.city\"],\"timeDimensions\":[],\"order\":{\"Users.count\":\"desc\"}}}",
+        "layout": "{\"x\":13,\"y\":0,\"w\":10,\"h\":14}"
+    },
+    {
+        "id": 4,
+        "name": "Item 4",
+        "vizstate": "{\"chartType\":\"pie\",\"query\":{\"measures\":[\"Users.count\"],\"dimensions\":[\"Users.city\"],\"timeDimensions\":[],\"order\":{\"Users.count\":\"desc\"}}}",
+        "layout": "{\"x\":13,\"y\":0,\"w\":10,\"h\":14}"
+    },
+    {
+        "id": 5,
+        "name": "Item 5",
+        "vizstate": "{\"chartType\":\"pie\",\"query\":{\"measures\":[\"Users.count\"],\"dimensions\":[\"Users.city\"],\"timeDimensions\":[],\"order\":{\"Users.count\":\"desc\"}}}",
+        "layout": "{\"x\":13,\"y\":0,\"w\":10,\"h\":14}"
+    }
+]
